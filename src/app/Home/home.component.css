@@ -1,0 +1,41 @@
+.div-general {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.div-left{
+  text-align: center;
+  flex: 1;
+  height: 100vh;
+}
+
+
+.div-rigth {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+  flex: 1;
+  height: 100vh;
+}
+
+.div-rigth-part{
+  padding: 1px;
+  margin: 1px;
+  margin-top: 5px;
+}
+
+.div-rigth-part p{
+
+  font-size: 15px;
+  color: #787878;
+}
+
+.big{
+ font-size: 4em;
+ color: #49bf67;
+}
+
+.btn-primary{
+  background-color: #00acec;
+}
