@@ -39,3 +39,14 @@
 .btn-primary{
   background-color: #00acec;
 }
+
+.div-left{
+  align-items: center;
+  margin-top: 15px;
+}
+
+.videoBox{
+border-radius: 10%;
+}
+
+
